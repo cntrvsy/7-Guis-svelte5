@@ -10,7 +10,7 @@
            <button class="btn btn-primary" onclick={() => goto('/temperature-converter')}>Temperature Converter</button>
        </div>
        <div class="p-4 flex items-center justify-center">
-           <button class="btn">First Example</button>
+           <button class="btn btn-primary" onclick={() => goto('/flight-booker')}>Flight Booker</button>
        </div>
        <div class="p-4 flex items-center justify-center">
            <button class="btn">First Example</button>
