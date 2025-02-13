@@ -16,7 +16,7 @@
            <button class="btn btn-primary" onclick={() => goto('/timer')}>Timer</button>
        </div>
        <div class="p-4 flex items-center justify-center">
-           <button class="btn">First Example</button>
+           <button class="btn btn-primary" onclick={() => goto('/crud')}>CRUD</button>
        </div>
        <div class="p-4 flex items-center justify-center">
            <button class="btn">First Example</button>
