@@ -19,7 +19,7 @@
            <button class="btn btn-primary" onclick={() => goto('/crud')}>CRUD</button>
        </div>
        <div class="p-4 flex items-center justify-center">
-           <button class="btn">First Example</button>
+           <button class="btn" onclick={() => goto('/circle-drawer')}>Circle Drawer</button>
        </div>
        <div class="p-4 flex items-center justify-center">
            <button class="btn">First Example</button>
